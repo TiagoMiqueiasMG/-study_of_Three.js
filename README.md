@@ -1,1 +1,1 @@
-# -study_of_Three.js
+# -Study_of_Three.js
